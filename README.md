@@ -9,4 +9,4 @@ I'm a passionate Developer with experience in HTML, CSS, and Flask. I love tackl
 🔭 Working on: Backend
 
 🌍 Languages: Python, HTML, CSS
-    Frameworks: Flask
+ $ Frameworks: Flask, Bootstrap
